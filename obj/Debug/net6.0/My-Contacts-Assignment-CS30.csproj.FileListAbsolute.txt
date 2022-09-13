@@ -1,0 +1,15 @@
+F:\CS30\C#\My-Contacts-Assignment-CS30\bin\Debug\net6.0\My-Contacts-Assignment-CS30.exe
+F:\CS30\C#\My-Contacts-Assignment-CS30\bin\Debug\net6.0\My-Contacts-Assignment-CS30.deps.json
+F:\CS30\C#\My-Contacts-Assignment-CS30\bin\Debug\net6.0\My-Contacts-Assignment-CS30.runtimeconfig.json
+F:\CS30\C#\My-Contacts-Assignment-CS30\bin\Debug\net6.0\My-Contacts-Assignment-CS30.dll
+F:\CS30\C#\My-Contacts-Assignment-CS30\bin\Debug\net6.0\My-Contacts-Assignment-CS30.pdb
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.csproj.AssemblyReference.cache
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.AssemblyInfoInputs.cache
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.AssemblyInfo.cs
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.csproj.CoreCompileInputs.cache
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.dll
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\refint\My-Contacts-Assignment-CS30.dll
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.pdb
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\My-Contacts-Assignment-CS30.genruntimeconfig.cache
+F:\CS30\C#\My-Contacts-Assignment-CS30\obj\Debug\net6.0\ref\My-Contacts-Assignment-CS30.dll
